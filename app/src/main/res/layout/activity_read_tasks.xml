@@ -16,7 +16,7 @@
         android:layout_marginTop="24dp"
         android:layout_marginEnd="24dp"
         android:fontFamily="@font/bangers"
-        android:text="Diary Pages"
+        android:text="Tasks"
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="30dp"
